@@ -1,3 +1,5 @@
+![6 AI Agent Traps](images/six-ai-agent-traps-hero.webp)
+
 # AI Agent Security Vulnerabilities
 
 A companion repo to my Medium article on the Google DeepMind taxonomy of AI Agent Traps — six categories of attack surface that did not exist two years ago.
@@ -5,8 +7,6 @@ A companion repo to my Medium article on the Google DeepMind taxonomy of AI Agen
 ## What's here
 
 - [`article.md`](article.md) — full text of the article, with embedded figures
-- [`article.pdf`](article.pdf) — original Medium PDF export
-- [`google-deepmind-paper.pdf`](google-deepmind-paper.pdf) — the source paper (`2605.03808v1`) the article is built around
 - [`images/`](images/) — figures referenced in the article
 
 ## Summary
